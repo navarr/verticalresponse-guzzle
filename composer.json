@@ -6,7 +6,7 @@
   "require": {
     "php": ">=5.6",
     "guzzlehttp/guzzle": "^6.2",
-    "navarr/verticalresponse": "^2.0"
+    "navarr/verticalresponse": "^2.0.2"
   },
   "autoload": {
     "psr-4": {
