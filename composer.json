@@ -1,5 +1,6 @@
 {
   "name": "navarr/verticalresponse-guzzle",
+  "license": "MIT",
   "description": "Guzzle HttpClient and RequestProvider for navarr/verticalresponse",
   "minimum-stability": "stable",
   "require": {
