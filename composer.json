@@ -5,7 +5,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.6",
-    "guzzlehttp/guzzle": "^6.2",
+    "guzzlehttp/guzzle": "^6.2.1",
     "navarr/verticalresponse": "^2.0.2"
   },
   "provide": {
