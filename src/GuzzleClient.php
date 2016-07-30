@@ -6,7 +6,7 @@ use GuzzleHttp\Client;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
 
-class GuzzleClient implements HttpClient
+class GuzzleClient implements HttpClientInterface
 {
     /** @var Client */
     private $client;

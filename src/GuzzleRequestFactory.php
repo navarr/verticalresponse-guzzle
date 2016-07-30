@@ -5,7 +5,7 @@ namespace VerticalResponse\Client;
 use GuzzleHttp\Psr7\Request;
 use Psr\Http\Message\RequestInterface;
 
-class GuzzleRequestFactory implements RequestProvider
+class GuzzleRequestFactory implements RequestProviderInterface
 {
     /** @return RequestInterface */
     public function createRequest(
